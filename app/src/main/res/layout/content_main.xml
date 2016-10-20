@@ -26,6 +26,7 @@
         android:id="@+id/create"
         android:layout_marginTop="25dp"
         android:text="@string/create_rec"
+        android:textSize="10pt"
         android:textColor="#280d0d"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -38,6 +39,8 @@
         android:id="@+id/view"
         android:layout_marginTop="12dp"
         android:text="@string/view_rec"
+        android:textSize="10pt"
+
         android:textColor="#280d0d"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -49,6 +52,8 @@
         android:id="@+id/random"
         android:layout_marginTop="12dp"
         android:text="@string/random"
+        android:textSize="10pt"
+
         android:textColor="#280d0d"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -61,6 +66,8 @@
         android:id="@+id/delete"
         android:layout_marginTop="12dp"
         android:text="@string/delete_rec"
+        android:textSize="10pt"
+
         android:textColor="#280d0d"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -74,6 +81,8 @@
         android:id="@+id/suggest"
         android:layout_marginTop="12dp"
         android:text="@string/suggest"
+        android:textSize="10pt"
+
         android:textColor="#280d0d"
        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -87,6 +96,8 @@
         android:id="@+id/grocery"
         android:layout_marginTop="12dp"
         android:text="@string/grocery"
+        android:textSize="10pt"
+
         android:textColor="#280d0d"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
